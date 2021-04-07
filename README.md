@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tfkwryd
 - 👀 I’m interested in developing system
 - 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on developing a flutter related project
+- 💞️ I’m looking to collaborate on developing a mobile app using flutter
 - 📫 How to reach me, visit curvaku.com
 
 <!---
