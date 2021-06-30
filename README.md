@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tfkwryd (Taufik Wiryadi)
-- 👀 I’m interested in developing system
+- 👀 I’m interested in developing or analysis system
 - 🌱 I’m currently developing mobile app and website frontend using flutter
-- 💞️ I’m looking to collaborate on developing a program
+- 💞️ I’m looking to collaborate on developing a system
 - 📫 How to reach me, visit curvaku.com
 
 <!---
